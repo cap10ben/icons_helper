@@ -3378,6 +3378,7 @@ const Map<String, IconData> FontAwesomeIconsMap = <String, IconData>{
   'timesCircle': FontAwesomeIcons.timesCircle,
   'solidTimesCircle': FontAwesomeIcons.solidTimesCircle,
   'tint': FontAwesomeIcons.tint,
+  'tiktok': FontAwesomeIcons.tiktok,
   'tintSlash': FontAwesomeIcons.tintSlash,
   'tired': FontAwesomeIcons.tired,
   'solidTired': FontAwesomeIcons.solidTired,
